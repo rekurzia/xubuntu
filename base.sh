@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 
 apt-get update
 apt-get upgrade
@@ -16,7 +16,7 @@ apt-get install ssh sshfs curlftpfs ftp-ssl
 apt-get install python-pip npm
 
 # others
-apt-get install ttf-mscorefonts-installer
+apt-get install terminator ttf-mscorefonts-installer
 
 # cleanup
 apt-get autoremove
