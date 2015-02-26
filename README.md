@@ -15,19 +15,27 @@ Installs base tools useful for web development on your fresh debian-like compute
 - whois: for domain stats
 - host: lookup for DNS
 
+### VCS
+
 - git: most popular VCS
 - gitk: GUI for git
 - mercurial: another powerfull VCS
 - subversion: old VCS
 - meld: ultimate diff viewer
 
+### SSH and remote file systems
+
 - ssh: OpenSSH client
 - sshfs: for mounting SSH file systems
 - curlftpfs: for mounting FTP file systems
 - ftp-ssl: browsing secured FTP servers
 
+### Package managers
+
 - python-pip: package manager
 - npm: package manager for node
+
+### Other useful packages
 
 - terminator: awesome terminal
 - ttf-mscorefonts-installer: fonts
