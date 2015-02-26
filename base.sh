@@ -1,10 +1,10 @@
-#/bin/bash
+#!/bin/bash
 
 apt-get update
 apt-get upgrade
 
 # useful command line tools
-apt-get install vim mc htop apg unrar curl tree dstat whois host
+apt-get install vim mc htop apg unrar qalc curl tree dstat whois host
 
 # tools for VCS
 apt-get install git gitk mercurial subversion meld
@@ -16,7 +16,7 @@ apt-get install ssh sshfs curlftpfs ftp-ssl
 apt-get install python-pip npm
 
 # others
-apt-get install ttf-mscorefonts-installer
+apt-get install terminator ttf-mscorefonts-installer
 
 # cleanup
 apt-get autoremove
