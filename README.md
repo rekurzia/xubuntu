@@ -4,14 +4,14 @@ Base tools useful for web development on your fresh debian-like computer install
 
 ## Installation
 
-### All in one
+All in one:
 
 ```bash
 $ wget https://raw.githubusercontent.com/rekurzia/computer/master/{base,browsers,multimedia}.sh
 $ for part in {base,browsers,multimedia}; do sudo sh $part.sh; done;
 ```
 
-### Single part
+or single part:
 
 ```bash
 $ wget https://raw.githubusercontent.com/rekurzia/computer/master/base.sh
