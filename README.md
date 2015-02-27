@@ -1,8 +1,26 @@
 # Computer
 
-Installs base tools useful for web development on your fresh debian-like computer installation
+Base tools useful for web development on your fresh debian-like computer installation
 
-## Base
+## Installation
+
+### All in one
+
+```bash
+$ wget https://raw.githubusercontent.com/rekurzia/computer/master/{base,browsers,multimedia}.sh
+$ for part in {base,browsers,multimedia}; do sudo sh $part.sh; done;
+```
+
+### Single part
+
+```bash
+$ wget https://raw.githubusercontent.com/rekurzia/computer/master/base.sh
+$ sudo sh base.sh
+```
+
+## Contents
+
+### `base.sh`
 
 - `vim`: powerfull editor, must-have for configs
 - `mc`: traditional commander
@@ -16,7 +34,7 @@ Installs base tools useful for web development on your fresh debian-like compute
 - `whois`: for domain stats
 - `host`: lookup for DNS
 
-### VCS
+#### VCS
 
 - `git`: most popular VCS
 - `gitk`: GUI for git
@@ -24,31 +42,31 @@ Installs base tools useful for web development on your fresh debian-like compute
 - `subversion`: old VCS
 - `meld`: ultimate diff viewer
 
-### SSH and remote file systems
+#### SSH and remote file systems
 
 - `ssh`: OpenSSH client
 - `sshfs`: for mounting SSH file systems
 - `curlftpfs`: for mounting FTP file systems
 - `ftp-ssl`: browsing secured FTP servers
 
-### Package managers
+#### Package managers
 
 - `python-pip`: package manager
 - `npm`: package manager for node
 
-### Other useful packages
+#### Other useful packages
 
 - `terminator`: awesome^2 terminal
 - `ttf-mscorefonts-installer`: fonts
 
-## Browsers
+### `browsers.sh`
 
 - `chromium-browser`
 - `firefox`
 - `google-chrome-stable`
 - for Opera, see https://opera.com
 
-## Multimedia
+### `multimedia.sh`
 
 - `mplayer`: ultimate media player
 - `vlc`: another media player (for sure)
