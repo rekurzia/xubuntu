@@ -48,6 +48,8 @@ $ sudo sh base.sh
 - `sshfs`: for mounting SSH file systems
 - `curlftpfs`: for mounting FTP file systems
 - `ftp-ssl`: browsing secured FTP servers
+- `nfs-common`: NFS
+- `cifs-utils`: Samba
 
 #### Package managers
 
@@ -73,4 +75,5 @@ $ sudo sh base.sh
 - `evince`: document viewer
 - `openshot`: python video editor
 - `youtube-dl`: downloading
+- `x264`: video encoder
 
