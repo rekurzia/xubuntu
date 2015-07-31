@@ -10,7 +10,7 @@ apt-get install vim mc htop apg unrar qalc curl tree dstat whois host
 apt-get install git gitk mercurial subversion meld
 
 # remote server and file system tools
-apt-get install ssh sshfs curlftpfs ftp-ssl
+apt-get install ssh sshfs curlftpfs ftp-ssl nfs-common cifs-utils
 
 # other languages package managers
 apt-get install python-pip npm
