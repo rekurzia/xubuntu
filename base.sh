@@ -1,10 +1,9 @@
 #!/bin/bash
 
-apt-get update
-apt-get upgrade
+apt-get update && apt-get upgrade
 
 # useful command line tools
-apt-get install vim mc htop apg unrar qalc curl tree dstat whois host
+apt-get install vim mc htop apg unrar qalc curl tree dstat whois host ncdu
 
 # tools for VCS
 apt-get install git gitk mercurial subversion meld

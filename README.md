@@ -33,6 +33,7 @@ $ sudo sh base.sh
 - `dstat`: system stats
 - `whois`: for domain stats
 - `host`: lookup for DNS
+- `ncdu`: disk usage viewer
 
 #### VCS
 
