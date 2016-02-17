@@ -78,3 +78,6 @@ $ sudo sh base.sh
 - `youtube-dl`: downloading
 - `x264`: video encoder
 
+## License
+
+MIT. See LICENSE file.
