@@ -7,15 +7,15 @@ Useful for your fresh debian-like computer installation
 All in one:
 
 ```bash
-$ wget https://raw.githubusercontent.com/rekurzia/computer/master/{base,additional}.sh
-$ for part in {base,additional}; do sudo sh $part.sh; done;
+wget https://raw.githubusercontent.com/rekurzia/computer/master/{base,additional}.sh
+for part in {base,additional}; do sudo sh $part.sh; done;
 ```
 
 or single part:
 
 ```bash
-$ wget https://raw.githubusercontent.com/rekurzia/computer/master/base.sh
-$ sudo sh base.sh
+wget https://raw.githubusercontent.com/rekurzia/computer/master/base.sh
+sudo sh base.sh
 ```
 
 ## Contents
