@@ -1,3 +1,3 @@
 #/bin/bash
 
-apt-get install vlc openshot youtube-dl x264
+apt-get install vlc openshot youtube-dl x264 gimp
