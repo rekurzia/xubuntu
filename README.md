@@ -34,6 +34,7 @@ sudo sh base.sh
 - `host`: lookup for DNS
 - `ncdu`: disk usage viewer
 - `git`: most popular VCS
+- `git-cola`: GUI for git
 - `mercurial`: another powerfull VCS
 - `subversion`: old VCS
 - `meld`: ultimate diff viewer
@@ -47,6 +48,7 @@ sudo sh base.sh
 - `chromium-browser`
 - `mplayer`: ultimate media player
 - `keepassx`: password manager
+- `redshift`: display color temperature (your eyes will thank you)
 
 ### `additional.sh`
 
