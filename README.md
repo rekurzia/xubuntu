@@ -57,11 +57,6 @@ sudo sh base.sh
 - `youtube-dl`: downloading
 - `x264`: video encoder
 
-### 3rd party 
-
-- `docker-compose.sh`
-- `docker-engine.sh` (requires `ubuntu-xenial`)
-
 ## License
 
 MIT. See LICENSE file.
