@@ -49,6 +49,7 @@ sudo sh base.sh
 - `mplayer`: ultimate media player
 - `keepassx`: password manager
 - `redshift`: display color temperature (your eyes will thank you)
+- `nmap`: network scan tool
 
 ### `additional.sh`
 
