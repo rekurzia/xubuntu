@@ -26,6 +26,5 @@ apt-get update -q \
   mplayer \
   keepassx \
   redshift \
-  nmap \
-  && apt-get autoremove
+  nmap
 
