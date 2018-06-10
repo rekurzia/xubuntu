@@ -1,6 +1,8 @@
-# Computer
+# Xubuntu
 
-Useful for your fresh debian-like computer installation
+Useful for your fresh Xubuntu computer installation.
+
+Tested on: Xubuntu 18.04
 
 ## Installation
 
