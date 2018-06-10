@@ -52,8 +52,8 @@ sudo sh base.sh
 
 - `vlc`: another media player (for sure)
 - `openshot`: python video editor
-- `youtube-dl`: downloading
 - `x264`: video encoder
+- `gimp`: image editor
 
 ## License
 
