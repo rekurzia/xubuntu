@@ -35,8 +35,6 @@ sudo sh base.sh
 - `ncdu`: disk usage viewer
 - `git`: most popular VCS
 - `git-cola`: GUI for git
-- `mercurial`: another powerfull VCS
-- `subversion`: old VCS
 - `meld`: ultimate diff viewer
 - `ssh`: OpenSSH client
 - `sshfs`: for mounting SSH file systems
@@ -45,7 +43,6 @@ sudo sh base.sh
 - `nfs-common`: NFS
 - `cifs-utils`: Samba
 - `terminator`: awesome^2 terminal
-- `chromium-browser`
 - `mplayer`: ultimate media player
 - `keepassx`: password manager
 - `redshift`: display color temperature (your eyes will thank you)

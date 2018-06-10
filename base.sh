@@ -15,8 +15,6 @@ apt-get update -q \
   ncdu \
   git \
   git-cola \
-  mercurial \
-  subversion \
   meld \
   ssh \
   sshfs \
@@ -25,7 +23,6 @@ apt-get update -q \
   nfs-common \
   cifs-utils \
   terminator \
-  chromium-browser \
   mplayer \
   keepassx \
   redshift \
